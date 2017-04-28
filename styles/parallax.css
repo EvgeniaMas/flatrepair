@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+#parallax_1 {
+	background: url(../images/BG_1_7.jpg) center top no-repeat fixed;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}
+
+#parallax_2 {
+	background: url(../images/BG_7_1.jpg) center top no-repeat fixed;
+	margin: 0 auto;
+	overflow: hidden;
+	padding: 0;
+}

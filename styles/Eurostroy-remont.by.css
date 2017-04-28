@@ -1,0 +1,124 @@
+@font-face
+{
+   font-family: 'Neo Sans Pro';
+   src: url('../fonts/NeoSansPro-Regular.eot');
+   src: url('../fonts/NeoSansPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NeoSansPro-Regular.svg#NeoSansPro-Regular') format('svg'),
+        url('../fonts/NeoSansPro-Regular.ttf') format('truetype'),
+        url('../fonts/NeoSansPro-Regular.woff') format('woff');
+}
+@font-face
+{
+   font-family: 'Neo Sans Pro Medium';
+   src: url('../fonts/NeoSansPro-Medium.eot');
+   src: url('../fonts/NeoSansPro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/NeoSansPro-Medium.svg#NeoSansPro-Medium') format('svg'),
+        url('../fonts/NeoSansPro-Medium.ttf') format('truetype'),
+        url('../fonts/NeoSansPro-Medium.woff') format('woff');
+}
+a
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: underline;
+}
+h1
+{
+   font-family: Arial;
+   font-size: 32px;
+   font-weight: bold;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h2
+{
+   font-family: Arial;
+   font-size: 27px;
+   font-weight: bold;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h3
+{
+   font-family: Arial;
+   font-size: 24px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h4
+{
+   font-family: Arial;
+   font-size: 21px;
+   font-weight: normal;
+   font-style: italic;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h5
+{
+   font-family: Arial;
+   font-size: 19px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+h6
+{
+   font-family: Arial;
+   font-size: 16px;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   color: #000000;
+   background-color: transparent;
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+   display: inline;
+}
+.CustomStyle
+{
+   font-family: "Courier New";
+   font-size: 16px;
+   font-weight: bold;
+   font-style: normal;
+   text-decoration: none;
+   color: #000080;
+   background-color: transparent;
+}
